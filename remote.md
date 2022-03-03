@@ -1,3 +1,5 @@
-# Remote
-
-Lorum Ipsum
+---
+layout: page
+title: "Remote"
+permalink: /remote/
+---

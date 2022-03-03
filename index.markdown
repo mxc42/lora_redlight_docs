@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+The indicator consists of 2 parts - the Transmitter and the Remote.
